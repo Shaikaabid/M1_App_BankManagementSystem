@@ -4,16 +4,3 @@ The “Bank Account Management System” project is a model Internet Banking Sit
 
 <br>
 
-![Code inspector CodeQuality](https://www.code-inspector.com/project/28259/score/svg)
-
-![Code inspector Grade](https://www.code-inspector.com/project/28259/status/svg)
-
-[![Git Inspector](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/git_inspector.yml)
-
-[![cppcheck-action](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/cppcheck.yml)
-
-
-[![Unit testing](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/unittest.yml/badge.svg)](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/unittest.yml)
-
-[![CI](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/UmaSurapally/Stepin_BankManagementSystem/actions/workflows/main.yml)
-
