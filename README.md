@@ -15,8 +15,9 @@
 
 
 
-| Code Inspector | Code Quality | Cpp Check |
-|--- | --- | --- |
-|![](https://api.codiga.io/project/30031/score/svg) |![](https://api.codiga.io/project/30031/status/svg) | [![CI](https://github.com/Shaikaabid/M1_App_BankManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/Shaikaabid/M1_App_BankManagementSystem/actions/workflows/main.yml)
+| Code Inspector | Code Quality | Cpp Check | Codacy |
+| --- | --- | --- | --- |
+
+|![](https://api.codiga.io/project/30031/score/svg) |![](https://api.codiga.io/project/30031/status/svg) | [![CI](https://github.com/Shaikaabid/M1_App_BankManagementSystem/actions/workflows/main.yml/badge.svg)](https://github.com/Shaikaabid/M1_App_BankManagementSystem/actions/workflows/main.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f5d1190a8dc74fd688374bb62c24d8c0)](https://www.codacy.com/gh/Shaikaabid/M1_App_BankManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Shaikaabid/M1_App_BankManagementSystem&amp;utm_campaign=Badge_Grade) |
 
 
